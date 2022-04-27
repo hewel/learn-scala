@@ -1,6 +1,6 @@
 package variables
 
-def getVariables() = {
+def getVariables = {
   val a = 0 // val is immutable
   var b = 1 // var is mutable
   b = 2
